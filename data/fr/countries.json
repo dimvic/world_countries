@@ -168,7 +168,7 @@
 {"id":752,"name":"Suède","alpha2":"se","alpha3":"swe"},
 {"id":756,"name":"Suisse","alpha2":"ch","alpha3":"che"},
 {"id":740,"name":"Suriname","alpha2":"sr","alpha3":"sur"},
-{"id":748,"name":"Swaziland","alpha2":"sz","alpha3":"swz"},
+{"id":748,"name":"Eswatini","alpha2":"sz","alpha3":"swz"},
 {"id":760,"name":"Syrie","alpha2":"sy","alpha3":"syr"},
 {"id":762,"name":"Tadjikistan","alpha2":"tj","alpha3":"tjk"},
 {"id":834,"name":"Tanzanie","alpha2":"tz","alpha3":"tza"},
@@ -190,5 +190,4 @@
 {"id":704,"name":"Viêt Nam","alpha2":"vn","alpha3":"vnm"},
 {"id":887,"name":"Yémen","alpha2":"ye","alpha3":"yem"},
 {"id":894,"name":"Zambie","alpha2":"zm","alpha3":"zmb"},
-{"id":716,"name":"Zimbabwe","alpha2":"zw","alpha3":"zwe"}
-]
+{"id":716,"name":"Zimbabwe","alpha2":"zw","alpha3":"zwe"}]

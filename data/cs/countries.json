@@ -128,7 +128,7 @@
 {"id":586,"name":"Pákistán","alpha2":"pk","alpha3":"pak"},
 {"id":585,"name":"Palau","alpha2":"pw","alpha3":"plw"},
 {"id":591,"name":"Panama","alpha2":"pa","alpha3":"pan"},
-{"id":598,"name":"Papua-Nová Guinea","alpha2":"pg","alpha3":"png"},
+{"id":598,"name":"Papua Nová Guinea","alpha2":"pg","alpha3":"png"},
 {"id":600,"name":"Paraguay","alpha2":"py","alpha3":"pry"},
 {"id":604,"name":"Peru","alpha2":"pe","alpha3":"per"},
 {"id":384,"name":"Pobřeží slonoviny","alpha2":"ci","alpha3":"civ"},
@@ -190,5 +190,4 @@
 {"id":704,"name":"Vietnam","alpha2":"vn","alpha3":"vnm"},
 {"id":626,"name":"Východní Timor","alpha2":"tl","alpha3":"tls"},
 {"id":894,"name":"Zambie","alpha2":"zm","alpha3":"zmb"},
-{"id":716,"name":"Zimbabwe","alpha2":"zw","alpha3":"zwe"}
-]
+{"id":716,"name":"Zimbabwe","alpha2":"zw","alpha3":"zwe"}]

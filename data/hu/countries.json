@@ -105,7 +105,7 @@
 {"id":438,"name":"Liechtenstein","alpha2":"li","alpha3":"lie"},
 {"id":440,"name":"Litvánia","alpha2":"lt","alpha3":"ltu"},
 {"id":442,"name":"Luxemburg","alpha2":"lu","alpha3":"lux"},
-{"id":807,"name":"Macedónia","alpha2":"mk","alpha3":"mkd"},
+{"id":807,"name":"Észak-Macedónia","alpha2":"mk","alpha3":"mkd"},
 {"id":450,"name":"Madagaszkár","alpha2":"mg","alpha3":"mdg"},
 {"id":348,"name":"Magyarország","alpha2":"hu","alpha3":"hun"},
 {"id":458,"name":"Malajzia","alpha2":"my","alpha3":"mys"},
@@ -168,7 +168,7 @@
 {"id":703,"name":"Szlovákia","alpha2":"sk","alpha3":"svk"},
 {"id":705,"name":"Szlovénia","alpha2":"si","alpha3":"svn"},
 {"id":706,"name":"Szomália","alpha2":"so","alpha3":"som"},
-{"id":"729","name":"Szudán","alpha2":"sd","alpha3":"sdn"},
+{"id":729,"name":"Szudán","alpha2":"sd","alpha3":"sdn"},
 {"id":748,"name":"Szváziföld","alpha2":"sz","alpha3":"swz"},
 {"id":762,"name":"Tádzsikisztán","alpha2":"tj","alpha3":"tjk"},
 {"id":834,"name":"Tanzánia","alpha2":"tz","alpha3":"tza"},
@@ -190,5 +190,4 @@
 {"id":704,"name":"Vietnám","alpha2":"vn","alpha3":"vnm"},
 {"id":894,"name":"Zambia","alpha2":"zm","alpha3":"zmb"},
 {"id":716,"name":"Zimbabwe","alpha2":"zw","alpha3":"zwe"},
-{"id":132,"name":"Zöld-foki Köztársaság","alpha2":"cv","alpha3":"cpv"}
-]
+{"id":132,"name":"Zöld-foki Köztársaság","alpha2":"cv","alpha3":"cpv"}]

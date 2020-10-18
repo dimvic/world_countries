@@ -1,0 +1,10 @@
+cache/*
+node_modules/*
+docs/*
+.gitattributes
+.gitignore
+.npmignore
+package.json
+package-lock.json
+index.php
+todo.txt

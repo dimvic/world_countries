@@ -1,3 +1,41 @@
+## version 2.1.1 (October 17, 2020)
+
+- the lists are now available as a [Composer package](https://packagist.org/packages/stefangabos/world_countries); thanks to [piotrpog](https://github.com/piotrpog) for suggesting!
+
+## version 2.1.0 (October 15, 2020)
+
+- added country names in Finnish; see [#42](https://github.com/stefangabos/world_countries/issues/42), thanks [Alex Garcia](https://github.com/alexgarciab)!
+- use official short name for Belarus for German language; see [#40](https://github.com/stefangabos/world_countries/issues/40)
+
+## version 2.0.0 (September 25, 2020)
+
+- added Basque translation; thanks [erral](https://github.com/erral)!
+- changed data folder name for **Chinese (Simplified)** from `cn` to `zh` to correctly reflect ISO-639 language codes
+- changed data folder name for **Chinese (Traditional)** from `cn` to `zh-tw` to correctly reflect ISO-639 language codes
+- changed data folder name for **Estonian** from `et` to `ee` to correctly reflect ISO-639 language codes
+- updates to some country names in Arabic, German, Ukrainian, Traditional Chinese
+
+## version 1.1.1 (August 02, 2020)
+
+- fixed issues with Traditional Chinese
+
+## version 1.1.0 (August 02, 2020)
+
+- added Trasitional Chinese translations; see [#35](https://github.com/stefangabos/world_countries/pull/35)
+- added Korean translations; see [#34](https://github.com/stefangabos/world_countries/pull/34)
+- updates to some country names in Spanish, Swedish and Thai
+
+## version 1.0.2 (May 22, 2020)
+
+- added Swedish translations
+- Chinese translations are now in simplified Chinese instead of a mix (see [#32](https://github.com/stefangabos/world_countries/pull/32)); thanks [Sun Jiao](https://github.com/sun-jiao) for the help!
+- fixed [#33](https://github.com/stefangabos/world_countries/pull/33) where the country code of Sudan, for some translations, it was saved as `string` instead of `int` in the `JSON` format - thanks [Ruben Lie King](https://github.com/rl-king) for reporting!
+- all data in files is up to date as of May 22nd, 2020
+
+## version 1.0.0 (April 02, 2019)
+
+- first re-release since moving to GitHub
+
 ## version 1.2.1 (January 26, 2016)
 
 - the list is now [available on GitHub](https://github.com/stefangabos/world_countries)

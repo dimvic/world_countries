@@ -1,6 +1,6 @@
 id,name,alpha2,alpha3
 4,Afghánistán,af,afg
-248,Ålandy,ax,ala
+248,Alandy,ax,ala
 8,Albánie,al,alb
 12,Alžírsko,dz,dza
 16,"Americká Samoa",as,asm
@@ -168,7 +168,7 @@ id,name,alpha2,alpha3
 585,Palau,pw,plw
 275,"Palestinská autonomie",ps,pse
 591,Panama,pa,pan
-598,"Papua-Nová Guinea",pg,png
+598,"Papua Nová Guinea",pg,png
 600,Paraguay,py,pry
 604,Peru,pe,per
 612,"Pitcairnovy ostrovy",pn,pcn
@@ -183,7 +183,7 @@ id,name,alpha2,alpha3
 643,Rusko,ru,rus
 646,Rwanda,rw,rwa
 300,Řecko,gr,grc
-666,"Saint-Pierre a Miquelon",pm,spm
+666,"Saint Pierre a Miquelon",pm,spm
 222,Salvador,sv,slv
 882,Samoa,ws,wsm
 674,"San Marino",sm,smr

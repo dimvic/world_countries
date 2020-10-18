@@ -103,7 +103,7 @@
 {"id":478,"name":"Μαυριτανία","alpha2":"mr","alpha3":"mrt"},
 {"id":499,"name":"Μαυροβούνιο","alpha2":"me","alpha3":"mne"},
 {"id":484,"name":"Μεξικό","alpha2":"mx","alpha3":"mex"},
-{"id":104,"name":"Μιανμάρ (Βιρμανία)","alpha2":"mm","alpha3":"mmr"},
+{"id":104,"name":"Μιανμάρ","alpha2":"mm","alpha3":"mmr"},
 {"id":496,"name":"Μογγολία","alpha2":"mn","alpha3":"mng"},
 {"id":508,"name":"Μοζαμβίκη","alpha2":"mz","alpha3":"moz"},
 {"id":498,"name":"Μολδαβία","alpha2":"md","alpha3":"mda"},
@@ -167,7 +167,7 @@
 {"id":705,"name":"Σλοβενία","alpha2":"si","alpha3":"svn"},
 {"id":706,"name":"Σομαλία","alpha2":"so","alpha3":"som"},
 {"id":748,"name":"Εσουατίνι","alpha2":"sz","alpha3":"swz"},
-{"id":"729","name":"Σουδάν","alpha2":"sd","alpha3":"sdn"},
+{"id":729,"name":"Σουδάν","alpha2":"sd","alpha3":"sdn"},
 {"id":752,"name":"Σουηδία","alpha2":"se","alpha3":"swe"},
 {"id":740,"name":"Σουρινάμ","alpha2":"sr","alpha3":"sur"},
 {"id":144,"name":"Σρι Λάνκα","alpha2":"lk","alpha3":"lka"},
@@ -190,5 +190,4 @@
 {"id":608,"name":"Φιλιππίνες","alpha2":"ph","alpha3":"phl"},
 {"id":246,"name":"Φινλανδία","alpha2":"fi","alpha3":"fin"},
 {"id":242,"name":"Φίτζι","alpha2":"fj","alpha3":"fji"},
-{"id":152,"name":"Χιλή","alpha2":"cl","alpha3":"chl"}
-]
+{"id":152,"name":"Χιλή","alpha2":"cl","alpha3":"chl"}]

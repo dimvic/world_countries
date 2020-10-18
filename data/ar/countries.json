@@ -13,7 +13,7 @@
 {"id":48,"name":"البحرين","alpha2":"bh","alpha3":"bhr"},
 {"id":50,"name":"بنغلاديش","alpha2":"bd","alpha3":"bgd"},
 {"id":52,"name":"باربادوس","alpha2":"bb","alpha3":"brb"},
-{"id":112,"name":"روسيا البيضاء","alpha2":"by","alpha3":"blr"},
+{"id":112,"name":"بيلاروس","alpha2":"by","alpha3":"blr"},
 {"id":56,"name":"بلجيكا","alpha2":"be","alpha3":"bel"},
 {"id":84,"name":"بليز","alpha2":"bz","alpha3":"blz"},
 {"id":204,"name":"بنين","alpha2":"bj","alpha3":"ben"},
@@ -163,7 +163,7 @@
 {"id":144,"name":"سريلانكا","alpha2":"lk","alpha3":"lka"},
 {"id":729,"name":"السودان","alpha2":"sd","alpha3":"sdn"},
 {"id":740,"name":"سورينام","alpha2":"sr","alpha3":"sur"},
-{"id":748,"name":"سوازيلاند","alpha2":"sz","alpha3":"swz"},
+{"id":748,"name":"إسواتيني","alpha2":"sz","alpha3":"swz"},
 {"id":752,"name":"السويد","alpha2":"se","alpha3":"swe"},
 {"id":756,"name":"سويسرا","alpha2":"ch","alpha3":"che"},
 {"id":760,"name":"سوريا","alpha2":"sy","alpha3":"syr"},
@@ -190,5 +190,4 @@
 {"id":704,"name":"فيتنام","alpha2":"vn","alpha3":"vnm"},
 {"id":887,"name":"اليمن","alpha2":"ye","alpha3":"yem"},
 {"id":894,"name":"زامبيا","alpha2":"zm","alpha3":"zmb"},
-{"id":716,"name":"زيمبابوي","alpha2":"zw","alpha3":"zwe"}
-]
+{"id":716,"name":"زيمبابوي","alpha2":"zw","alpha3":"zwe"}]
